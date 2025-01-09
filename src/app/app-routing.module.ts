@@ -11,6 +11,10 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full'
   },
+  {
+    path: 'hole',
+    component: AboutComponent,
+  }
 ];
 
 @NgModule({
