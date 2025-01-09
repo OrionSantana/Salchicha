@@ -1,0 +1,7 @@
+{
+  "name": "Salchicha",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
